@@ -301,3 +301,17 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#Unreal Engine git ignore
+*.dll
+*.pdb
+*.suo
+*.response
+*.exp
+*.lib
+*.log
+*.dmp
+Saved/
+Intermediate/
+Build/
+Binaries/
