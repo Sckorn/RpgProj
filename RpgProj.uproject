@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.13",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RpgProj",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Slate",
+				"SlateCore",
+				"Engine",
+				"CoreUObject",
+				"UMG"
+			]
+		}
+	]
+}
